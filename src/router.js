@@ -4,7 +4,6 @@ import VueRouter from 'vue-router';
 import About from './views/About.vue';
 import Home from './views/Home.vue';
 import Karya from './views/Karya.vue';
-import Pengalaman from './views/Pengalaman.vue';
 import Skills from './views/Skills.vue';
 import Contact from './views/Contact.vue';
 

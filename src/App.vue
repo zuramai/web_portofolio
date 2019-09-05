@@ -6,7 +6,7 @@
         :style="{backgroundImage: 'url('+require('@/assets/images/bg2.jpg')+')'}">
         <section class='left flex justify-center flex-col align-items-center '>
           <div class="profile-image-wrapper rounded-full border border-white">
-            <img src="@/assets/images/ogi.png" alt="" class='profile-image '>
+            <img src="@/assets/logo.png" alt="" class='profile-image '>
           </div>
             <h3 class='user-name my-2'>Ahmad Saugi</h3>
             <p class='skill'>Fullstack Web Developer</p>
